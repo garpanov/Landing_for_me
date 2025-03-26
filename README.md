@@ -1,5 +1,5 @@
 
-# landing page 🌟
+# Landing page 🌟
 
 | JS | Vue | Vite | TailwindCSS | GSAP |
 |----|-----|------|-------------|------|
