@@ -358,7 +358,7 @@ onMounted(() => {
         <h1 class="text-3-h1 text-4xl xl:text-8xl mt-3">mark</h1>
       </div>
       <img src="../public/3/Laptop 1.png" class="laptop absolute mt-30 md:mt-40 lg:mt-5 xl:mt-60 2xl:mt-10 w-4/6 right-0 z-30">
-      <h2 class="absolute whitespace-nowrap text-3-h2 z-10 text-8xl mt-200">Start your modern journey with cutting-edge technology.</h2>
+      <!-- <h2 class="absolute whitespace-nowrap text-3-h2 z-10 text-8xl mt-200">Start your modern journey with cutting-edge technology.</h2> -->
 
       <div class="hidden md:block absolute xl:right-30 mt-150 xl:mt-270">
         <p class="text-3-p text-4xl md:mt-10 md:text-5xl">Stay ahead, stay sharp, be at</p>
